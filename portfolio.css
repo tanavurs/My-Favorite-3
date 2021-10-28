@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+ background: linear-gradient(to right, #ff0099, #493240);
 }
 html
 {
@@ -42,7 +42,7 @@ h2{
 #bio{
     padding:20px;
     font-size:42;
-    background:pink;
+    bbackground: linear-gradient(to right, #ff0099, #493240);
 }
 .menu{
    list-style: none;
